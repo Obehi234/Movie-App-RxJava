@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Online Streaming Service- RxJava</string>
+    <string name="movie_name">movie name</string>
+    <string name="sub_title">sub title</string>
+    <string name="movie_info">movie info</string>
+    <string name="releasedate">release date</string>
+    <string name="_2019">release year 2019</string>
+    <string name="rating">Rating</string>
+    <string name="_8">_8</string>
+    <string name="runtime">runtime</string>
+    <string name="_2_3_hr">2-3 hrs</string>
+    <string name="budget">budget</string>
+    <string name="budget_value">budget value</string>
+    <string name="revenue">revenue</string>
+    <string name="revenue_value">revenue value</string>
+    <string name="overview">overview</string>
+    <string name="overview_value">overview value</string>
+    <string name="rate">rate</string>
+    <string name="language">language</string>
+    <string name="date">date</string>
+</resources>
